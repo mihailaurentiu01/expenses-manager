@@ -1,0 +1,17 @@
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\domain\Expense.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\domain\Item.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\controllers\LogoutController.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\controllers\IndexController.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\controllers\ExpenseController.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\repositories\UserRepository.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\restApi\ExpensesRESTService.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\controllers\LoginController.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\controllers\RegisterController.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\config\SpringSecurityConfig.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\config\SpringWebInitializer.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\config\ConfigSpringAPP.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\domain\UserDTO.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\controllers\RedirectController.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\repositories\RepositoryExpenses.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\services\UserService.java
+C:\Users\Adi Iordache\Desktop\projects-java\expenses-manager\src\main\java\com\adriandevv\services\ExpenseManager.java

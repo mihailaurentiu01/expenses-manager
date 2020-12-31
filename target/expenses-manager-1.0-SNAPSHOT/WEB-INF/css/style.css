@@ -1,0 +1,12 @@
+.results tr[visible='true']{
+    display:table-row;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.results tr[visible='false'],
+.no-result{
+    display:none;
+}

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.adriandevv.config"},{"l":"com.adriandevv.controllers"},{"l":"com.adriandevv.domain"},{"l":"com.adriandevv.repositories"},{"l":"com.adriandevv.restApi"},{"l":"com.adriandevv.services"}]
